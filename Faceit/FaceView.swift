@@ -22,10 +22,8 @@ class FaceView: UIView {
     var color : UIColor = UIColor.blue { didSet { setNeedsDisplay() } }
     @IBInspectable
     var lineWidth : CGFloat = 5.0 { didSet { setNeedsDisplay() } }
-    
 @objc
-    func changeScale(_ recognizer: UIPinchGestureRecognizer) {
-        print("hi")
+    func changeScale(recognizer: UIPinchGestureRecognizer) {
         switch recognizer.state {
         case .changed,.ended:
             scale *= recognizer.scale
