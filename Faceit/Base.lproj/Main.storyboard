@@ -51,6 +51,7 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                     </view>
                     <connections>
+                        <outlet property="FaceView" destination="5Lw-wg-FBw" id="mnQ-RA-wpE"/>
                         <outlet property="faceView" destination="5Lw-wg-FBw" id="sIn-qL-vRb"/>
                     </connections>
                 </viewController>

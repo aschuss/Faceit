@@ -33,6 +33,7 @@ struct FacialExpression
         case Smirk
         case Neutral
         case Smile
+        case Grin
         
         func sadderMouth() -> Mouth {
             return Mouth(rawValue: rawValue - 1) ?? . Frown
