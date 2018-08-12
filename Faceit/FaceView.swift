@@ -118,8 +118,6 @@ class FaceView: UIView {
         
         let mouthRect = CGRect(x: skullCenter.x - mouthWidth/2, y: skullCenter.y + mouthOffset, width: mouthWidth, height: mouthHeight)
         
-        let mouthCurvature: Double = 1.0 // 1 full smile, -1 full frown
-        
         let smileOffset = CGFloat(max(-1, min(mouthCurvature, 1))) * mouthRect.height
         let start = CGPoint(x:mouthRect.minX, y: mouthRect.minY)
         let end = CGPoint(x:mouthRect.maxX, y:mouthRect.minY)

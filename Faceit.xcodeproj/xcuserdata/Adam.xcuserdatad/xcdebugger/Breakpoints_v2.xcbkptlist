@@ -10,7 +10,7 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Faceit/FaceView.swift"
-            timestampString = "555395427.055068"
+            timestampString = "555736843.571171"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "12"
@@ -22,31 +22,31 @@
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Faceit.FaceView.scale.getter : CoreGraphics.CGFloat"
+                  symbolName = "Faceit.FaceView.__deallocating_deinit"
                   moduleName = "Faceit"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
-                  timestampString = "554007330.5043859"
+                  timestampString = "555481686.4656169"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "99">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
                </Location>
                <Location
                   shouldBeEnabled = "No"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
-                  symbolName = "Faceit.FaceView.scale.setter : CoreGraphics.CGFloat"
+                  symbolName = "Faceit.FaceView.__allocating_init(frame: __C.CGRect) -&gt; Faceit.FaceView"
                   moduleName = "Faceit"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
-                  timestampString = "554007330.556978"
+                  timestampString = "555481686.471274"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
-                  offsetFromSymbolStart = "106">
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -56,12 +56,27 @@
                   moduleName = "Faceit"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
-                  timestampString = "554007330.561053"
+                  timestampString = "555481686.47589"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
                   offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Faceit.FaceView.__allocating_init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Faceit.FaceView&gt;"
+                  moduleName = "Faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
+                  timestampString = "555481686.480516"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
                </Location>
                <Location
                   shouldBeEnabled = "No"
@@ -71,11 +86,11 @@
                   moduleName = "Faceit"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
-                  timestampString = "554007330.56487"
+                  timestampString = "555481686.484818"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "13"
-                  endingLineNumber = "13"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
                   offsetFromSymbolStart = "42">
                </Location>
             </Locations>
@@ -88,13 +103,60 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "Faceit/FaceView.swift"
-            timestampString = "555395427.0558701"
+            timestampString = "555736843.610377"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
             startingLineNumber = "13"
             endingLineNumber = "13"
             landmarkName = "FaceView"
             landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Faceit.FaceView.scale.didset : CoreGraphics.CGFloat"
+                  moduleName = "Faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
+                  timestampString = "555481686.636387"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Faceit.FaceView.init(frame: __C.CGRect) -&gt; Faceit.FaceView"
+                  moduleName = "Faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
+                  timestampString = "555481686.642579"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "43">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Faceit.FaceView.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Faceit.FaceView&gt;"
+                  moduleName = "Faceit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Adam/Documents/Developer/Faceit/Faceit/FaceView.swift"
+                  timestampString = "555481686.649057"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "42">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
