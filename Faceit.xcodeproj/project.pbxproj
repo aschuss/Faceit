@@ -13,6 +13,7 @@
 		660A6A0C2101767B0003A69A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 660A6A0B2101767B0003A69A /* Assets.xcassets */; };
 		660A6A0F2101767B0003A69A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 660A6A0D2101767B0003A69A /* LaunchScreen.storyboard */; };
 		660A6A18210177CA0003A69A /* FaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 660A6A17210177CA0003A69A /* FaceView.swift */; };
+		66222854212A0B4D00E0F832 /* EmotionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 66222853212A0B4D00E0F832 /* EmotionsViewController.swift */; };
 		664720B221069F78006F3917 /* FacialExpression.swift in Sources */ = {isa = PBXBuildFile; fileRef = 664720B121069F77006F3917 /* FacialExpression.swift */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		660A6A0E2101767B0003A69A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		660A6A102101767B0003A69A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		660A6A17210177CA0003A69A /* FaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FaceView.swift; sourceTree = "<group>"; };
+		66222853212A0B4D00E0F832 /* EmotionsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmotionsViewController.swift; sourceTree = "<group>"; };
 		664720B121069F77006F3917 /* FacialExpression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FacialExpression.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,6 +63,7 @@
 				660A6A16210176B50003A69A /* Supporting Files */,
 				660A6A06210176730003A69A /* FaceViewController.swift */,
 				660A6A08210176730003A69A /* Main.storyboard */,
+				66222853212A0B4D00E0F832 /* EmotionsViewController.swift */,
 				660A6A17210177CA0003A69A /* FaceView.swift */,
 				664720B121069F77006F3917 /* FacialExpression.swift */,
 				660A6A102101767B0003A69A /* Info.plist */,
@@ -151,6 +154,7 @@
 			files = (
 				660A6A07210176730003A69A /* FaceViewController.swift in Sources */,
 				664720B221069F78006F3917 /* FacialExpression.swift in Sources */,
+				66222854212A0B4D00E0F832 /* EmotionsViewController.swift in Sources */,
 				660A6A05210176730003A69A /* AppDelegate.swift in Sources */,
 				660A6A18210177CA0003A69A /* FaceView.swift in Sources */,
 			);
